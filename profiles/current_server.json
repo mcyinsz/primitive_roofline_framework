@@ -1,0 +1,16 @@
+{
+  "name": "current-server-xeon-gold-5220",
+  "cpu": {
+    "sockets": 2,
+    "cores_per_socket": 18,
+    "frequency_ghz": 2.2,
+    "flops_per_cycle_fp32": 64,
+    "flops_per_cycle_fp64": 32
+  },
+  "memory": {
+    "channels_total": 12,
+    "mt_s": 2666,
+    "bytes_per_transfer": 8
+  }
+}
+

@@ -1,0 +1,20 @@
+# Build artifacts
+bin/
+*.o
+*.so
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Experiment outputs
+results/raw/*.csv
+results/processed/*.csv
+results/processed/*.json
+results/plots/*.svg
+results/plots/*.png
+
+# Keep directory placeholders
+!results/raw/.gitkeep
+!results/processed/.gitkeep
+!results/plots/.gitkeep

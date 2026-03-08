@@ -1,0 +1,6 @@
+workload,params_json,target_seconds
+gemv,"{""dim"":128,""scale"":262144,""db_vectors"":0}",1.2
+cos_db_db,"{""dim"":128,""scale"":1048576,""db_vectors"":262144}",1.2
+cos_q_db,"{""dim"":128,""scale"":2097152,""db_vectors"":262144}",1.2
+ip_q_db,"{""dim"":128,""scale"":4194304,""db_vectors"":262144}",1.2
+softmax,"{""scale"":1048576}",1.2

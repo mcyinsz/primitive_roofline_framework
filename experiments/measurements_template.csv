@@ -1,0 +1,3 @@
+primitive,ai,achieved_gflops,notes
+dot_fp32,0.50,0.00,replace_with_measured_values
+
